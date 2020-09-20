@@ -1,3 +1,5 @@
+[樋口三郎](https://hig3.net)
+
 [龍谷大学](https://www.ryukoku.ac.jp) [先端理工学部](https://www.rikou.ryukoku.ac.jp) [数理・情報科学課程](https://www.math.ryukoku.ac.jp)
 
 * [site](https://hig3.net)
